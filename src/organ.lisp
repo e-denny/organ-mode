@@ -5,6 +5,7 @@
    :*agenda-include-tags* :*agenda-exclude-tags*
    :*roam-cache-enabled* :roam-cache-invalidate
    :*roam-cache-auto-rescan* :*roam-cache-rescan-interval*
+   :*roam-titles-include-id*
    :current-roamer
    :roam-rescan :roam-cache-auto-rescan-toggle)
   (:export
